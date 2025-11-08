@@ -5,3 +5,4 @@ pyproject.toml
 .env
 src/searchMistral.py
 faiss_store/
+.DS_Store
